@@ -23,30 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: uploads/appreciation_award.pdf
+  date_start: "2021-11-23"
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  description: Awarded by the Austrian Federal Ministry of Education and Science to the 50 best Master's graduates in Austria in the academic year 2020/2021 across all academic disciplines
+  organization: University of Vienna
+  organization_url: "https://univie.ac.at"
+  title: Appreciation award
+- certificate_url: https://informatik.univie.ac.at
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2019-06-01"
+  description: Awarded for graduating at the top of the CS class in the academic year 2017/18
+  organization: University of Vienna
+  organization_url: "https://informatik.univie.ac.at"
+  title: Best of the Best Award
+  url: https://informatik.univie.ac.at/studium/fuer-studieninteressierte/informatik-absolventinnen-erzaehlen/interviews-mit-den-besten-absolventinnen-im-studienjahr-20182019/
+- certificate_url: https://www.uniport.at/naturtalente
+  date_end: ""
+  date_start: "2019-06-24"
+  description: High potential program of the University of Vienna
+  organization: University of Vienna
+  organization_url: "https://univie.ac.at"
+  url: https://www.uniport.at/naturtalente
+  title: NaturTalente participant
 
 design:
   columns: '2' 

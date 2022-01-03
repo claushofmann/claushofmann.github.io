@@ -10,11 +10,11 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: If you're interested in talking about all things ML, just drop me a line. I'm always curious to get to know knew people.
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: True
   
   # Email form provider
   form:

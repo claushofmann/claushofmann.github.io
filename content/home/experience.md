@@ -22,28 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Computer Vision Engineer
+    company: EnliteAI
+    company_url: 'https://www.enlite.ai/'
+    company_logo: enlite
+    location: Vienna
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Collaborating on Detekt, a deep learning-based geospatial data platform
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching Assistant "Foundations of Data Analysis"
+    company: University of Vienna
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: uni-wien-grey
+    location: Vienna
+    date_start: '2018-09-01'
+    date_end: '2020-08-31'
+    description: In this course, the students learn foundations from both supervised and unsupervised learning
 
 design:
   columns: '2'
