@@ -19,6 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Geometric Deep Learning
+- Computer Vision
 - Reinforcement Learning
 - Unsupervised and Self-supervised machine learning
 
@@ -64,7 +65,7 @@ social:
 highlight_name: false
 ---
 
-Hi, I'm Claus, currently a Computer Vision Engineer at the Vienna-based startup enliteAI. Prior to that, I studied computer science with a focus
+Hi, I'm Claus, I'm a Computer Vision Engineer at the Vienna-based startup enliteAI. Prior to that, I studied computer science with a focus
 on data science at the University of Vienna. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/hofmann_cv_style.pdf" "newtab" >}}résumé{{< /staticref >}}.
