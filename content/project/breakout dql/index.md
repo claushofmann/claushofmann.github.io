@@ -1,13 +1,14 @@
 ---
-title: Progressive growing of GANs for generating game art
-summary: I implemented a special GAN architecture for generating high resolution images from scratch to generate images resembling the art style of the game "Destiny 2"
+title: "Deep Q-Learning for Breakout"
+summary: 'I made a computer learn to play the game breakout as in the classical reinforcement learning paper'
 tags:
 - Deep Learning
+- Reinforcement Learning
   
-date: "2021-03-29T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/claushofmann/GAN-game-art"
+external_link: "https://github.com/claushofmann/dql"
 
 image: 
 caption:

@@ -1,13 +1,16 @@
 ---
-title: Progressive growing of GANs for generating game art
-summary: I implemented a special GAN architecture for generating high resolution images from scratch to generate images resembling the art style of the game "Destiny 2"
+title: "Master's Thesis: Using Recurrent Neural Networks for Particle Tracking at the CERN Large Hadron Collider"
+summary: "I created a Deep Learning-based approach for tracking matter particles in particle accelerators. My approach is based
+on computer vision tracking techniques"
 tags:
 - Deep Learning
+- Particle Tracking
+- Recurrent Neural Networks
   
-date: "2021-03-29T00:00:00Z"
+date: "2020-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/claushofmann/GAN-game-art"
+external_link: "https://github.com/claushofmann/trackml"
 
 image: 
 caption:
