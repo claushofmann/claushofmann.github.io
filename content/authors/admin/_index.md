@@ -6,7 +6,7 @@ title: Claus Hofmann
 superuser: true
 
 # Role/position/tagline
-role: ML / CV Engineer
+role: Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,7 +65,7 @@ social:
 highlight_name: false
 ---
 
-Hi, I'm Claus, I'm a Computer Vision Engineer at the Vienna-based startup enliteAI. Prior to that, I studied computer science with a focus
+Hi, I'm Claus, I'm a Machine Learning Engineer at the Vienna-based startup enliteAI. Prior to that, I studied computer science with a focus
 on data science at the University of Vienna. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/hofmann_cv_style.pdf" "newtab" >}}résumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/hofmann_resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
