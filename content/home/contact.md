@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: If you're interested in talking about all things ML, just drop me a line. I'm always curious to get to know knew people.
+subtitle: If you're interested in talking about all things ML, just drop me a line. I'm always curious to get to know new people.
 
 content:
   # Automatically link email and phone or display as text?

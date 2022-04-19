@@ -39,7 +39,7 @@ experience:
     location: Vienna
     date_start: '2018-09-01'
     date_end: '2020-08-31'
-    description: In this course, the students learn foundations from both supervised and unsupervised learning
+    description: Helped ~100 students per semester learn about the basics of supervised and unsupervised learning
 
 design:
   columns: '2'

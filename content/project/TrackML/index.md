@@ -1,6 +1,7 @@
 ---
-title: Library for automatic differentiation
-summary: I created a simple autodiff library that is capable of automatically differentiating computations (e.g. neural networks) using backpropagation.
+title: Recurrent neural network-based particle tracking
+summary: For my Master's thesis, I had the amazing opportunity to collaborate with researchers from CERN to tackle the task of particle tracking using recurrent neural networks. We 
+
 tags:
 - Deep Learning
   
