@@ -69,6 +69,6 @@ highlight_name: false
 
 🤖 I create cool stuff using the latest of machine learning research
 
-🎓 Prior to that, I studied computer science / data science at the University of Vienna. 
+🎓 Previously, I studied computer science / data science at the University of Vienna. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/hofmann_resume_public.pdf" "newtab" >}}résumé{{< /staticref >}}.
