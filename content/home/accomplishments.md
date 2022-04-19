@@ -30,7 +30,7 @@ item:
   organization: University of Vienna
   organization_url: "https://univie.ac.at"
   title: Appreciation award
-- certificate_url: https://informatik.univie.ac.at
+- certificate_url:  https://informatik.univie.ac.at/studium/fuer-studieninteressierte/informatik-absolventinnen-erzaehlen/interviews-mit-den-besten-absolventinnen-im-studienjahr-20182019/
   date_end: ""
   date_start: "2019-06-01"
   description: Awarded for graduating at the top of the CS class in the academic year 2017/18

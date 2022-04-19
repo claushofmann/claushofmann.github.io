@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: "I'm a Machine Learning Engineer taking the latest in research and building cool stuff out of it."
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -110,7 +110,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-34E6W92P9E'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''

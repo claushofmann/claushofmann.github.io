@@ -10,7 +10,7 @@ role: Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: EnliteAI
+- name: enliteAI
   url: https://enlite.ai
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,7 +49,7 @@ social:
   link: https://github.com/claushofmann
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/claus-hofmann-2422091a8/
+  link: https://www.linkedin.com/in/claus-hofmann/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
