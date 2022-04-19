@@ -65,7 +65,10 @@ social:
 highlight_name: false
 ---
 
-Hi, I'm Claus, I'm a Machine Learning Engineer at the Vienna-based startup enliteAI. Prior to that, I studied computer science with a focus
-on data science at the University of Vienna. 
+👋 Hi, I'm Claus, I'm a Machine Learning Engineer at the Vienna-based startup enliteAI.
+
+🤖 I create cool stuff using the latest of machine learning research
+
+🎓 Prior to that, I studied computer science / data science at the University of Vienna. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/hofmann_resume_public.pdf" "newtab" >}}résumé{{< /staticref >}}.
