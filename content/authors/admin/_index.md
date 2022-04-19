@@ -71,4 +71,4 @@ highlight_name: false
 
 🎓 Previously, I studied computer science / data science at the University of Vienna. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/hofmann_resume_public.pdf" "newtab" >}}résumé{{< /staticref >}}.
+📝 Download my {{< staticref "uploads/hofmann_resume_public.pdf" "newtab" >}}résumé{{< /staticref >}}.
