@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Computer Vision Engineer
+  - title: Artificial Intelligence Researcher
+    company: Johannes Kepler University Linz, Institute for Machine Learning
+    company_url: 'https://www.jku.at/en/institute-for-machine-learning/'
+    company_logo: iml
+    location: Linz
+    date_start: '2022-10-01'
+    date_end: ''
+    description: |2-
+        Conducting research and participating at the institute's teaching efforts at the Institute of Machine Learning (headed by Sepp Hochreiter)
+
+  - title: Machine Learning Engineer
     company: EnliteAI
     company_url: 'https://www.enlite.ai/'
     company_logo: enlite
     location: Vienna
     date_start: '2021-05-01'
-    date_end: ''
+    date_end: '2022-09-30'
     description: |2-
         Collaborating on Detekt, a deep learning-based geospatial data platform
         

@@ -6,12 +6,12 @@ title: Claus Hofmann
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Engineer
+role: PhD Student, Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: enliteAI
-  url: https://enlite.ai
+- name: Johannes Kepler University Linz, Institute of Machine Learning
+  url: https://www.jku.at/en/institute-for-machine-learning/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,19 +19,22 @@ organizations:
 # Interests to show in About widget
 interests:
 - Geometric Deep Learning
-- Computer Vision
-- Reinforcement Learning
+- Uncertainity in Machine Learning
 - Unsupervised and Self-supervised machine learning
+- In-Context Learning
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD Artificial Intelligence
+    institution: University Linz, Institute of Machine Learning
+    year: 2022-now
   - course: MSc Computer Science / Data Science
     institution: University of Vienna
-    year: 2020
+    year: 2018-2020
   - course: BSc Computer Science / Data Science
     institution: University of Vienna
-    year: 2018
+    year: 2015-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,10 +68,8 @@ social:
 highlight_name: false
 ---
 
-👋 Hi, I'm Claus, I'm a Machine Learning Engineer at the Vienna-based startup enliteAI.
+👋 Hi, I'm Claus, I'm a Ph.D. student at the Institute of Machine Learning at the Johannes-Kepler University Linz.
 
-🤖 I create cool stuff using the latest of machine learning research
-
-🎓 Previously, I studied computer science / data science at the University of Vienna. 
+🤖 I have broad interests in ML, currently I'm especially curious about Uncertainity in Machine Learning and In-Context Learning.
 
 📝 Download my {{< staticref "uploads/hofmann_resume_public.pdf" "newtab" >}}résumé{{< /staticref >}}.
