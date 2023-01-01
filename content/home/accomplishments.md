@@ -37,7 +37,7 @@ item:
   organization: University of Vienna
   organization_url: "https://informatik.univie.ac.at"
   title: Best of the Best Award
-  url: https://informatik.univie.ac.at/studium/fuer-studieninteressierte/informatik-absolventinnen-erzaehlen/interviews-mit-den-besten-absolventinnen-im-studienjahr-20182019/
+  url: https://informatik.univie.ac.at/en/study/fuer-studieninteressierte/informatik-absolventinnen-erzaehlen/interviews-mit-den-besten-absolventinnen-im-studienjahr-20182019/interview-mit-claus-hofmann/
 - certificate_url: https://www.uniport.at/naturtalente
   date_end: ""
   date_start: "2019-06-24"
