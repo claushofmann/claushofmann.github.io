@@ -25,7 +25,7 @@ experience:
   - title: Artificial Intelligence Researcher
     company: Johannes Kepler University Linz, Institute for Machine Learning
     company_url: 'https://www.jku.at/en/institute-for-machine-learning/'
-    company_logo: iml.png
+    company_logo: iml
     location: Linz
     date_start: '2022-10-01'
     date_end: ''
