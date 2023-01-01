@@ -70,6 +70,6 @@ highlight_name: false
 
 👋 Hi, I'm Claus, I'm a Ph.D. student at the Institute of Machine Learning at the Johannes Kepler University Linz.
 
-🤖 I have broad interests in ML, currently I'm especially curious about Uncertainity in Machine Learning and In-Context Learning.
+🤖 I have broad interests in ML, currently I'm especially curious about **Uncertainity in Machine Learning** and **In-Context Learning**.
 
 📝 Download my {{< staticref "uploads/hofmann_resume_public.pdf" "newtab" >}}résumé{{< /staticref >}}.
