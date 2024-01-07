@@ -18,9 +18,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Geometric Deep Learning
 - Uncertainity in Machine Learning
-- Unsupervised and Self-supervised machine learning
+- Out-of-Distribution detection
 - In-Context Learning
 
 # Education to show in About widget
