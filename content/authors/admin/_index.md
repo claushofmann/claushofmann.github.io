@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Uncertainity in Machine Learning
 - Out-of-Distribution detection
-- In-Context Learning
+- Attention mechanisms
+- Sequence modeling
 
 # Education to show in About widget
 education:
