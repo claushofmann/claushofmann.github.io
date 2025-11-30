@@ -30,7 +30,7 @@ experience:
     date_start: '2022-10-01'
     date_end: ''
     description: |2-
-        Conducting research and participating at the institute's teaching efforts at the Institute of Machine Learning (headed by Sepp Hochreiter)
+        Conducting research and participating at the institute's teaching efforts at the Institute of Machine Learning
 
   - title: Machine Learning Engineer
     company: EnliteAI

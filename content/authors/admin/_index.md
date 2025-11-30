@@ -21,6 +21,7 @@ interests:
 - Out-of-Distribution detection
 - Attention mechanisms
 - Sequence modeling
+- Modern Hopfield networks
 
 # Education to show in About widget
 education:

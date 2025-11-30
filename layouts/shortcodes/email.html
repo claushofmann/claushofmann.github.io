@@ -1,0 +1,10 @@
+<span id="email-{{ .Get 0 }}">Loading...</span><script>
+  (function() {
+    const user = "{{ .Get 0 }}";
+    const domain = "{{ .Get 1 }}";
+    const element = document.getElementById("email-" + user);
+    const linkText = "{{ .Get 2 | default "Email Me" }}";
+    
+    element.innerHTML = '<a href="mailto:' + user + '@' + domain + '">' + linkText + '</a>';
+  })();
+</script>
