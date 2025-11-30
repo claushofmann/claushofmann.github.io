@@ -28,4 +28,4 @@ content:
 design:
   columns: '2'
 ---
-Prefer email? Reach me at {{< email "hi" "claus-hofmann.com" "hi@claus-hofmann.com">}}. I'm also active on {{< staticref "https://x.com/ClausHofm" "newtab" >}}X{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/claus-hofmann/" "newtab" >}}LinkedIn{{< /staticref >}}.
+Reach me at {{< email "hi" "claus-hofmann.com" "hi@claus-hofmann.com">}}. I'm also active on {{< staticref "https://x.com/ClausHofm" "newtab" >}}X{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/claus-hofmann/" "newtab" >}}LinkedIn{{< /staticref >}}.

@@ -70,6 +70,6 @@ highlight_name: false
 
 👋 Hi, I'm Claus, I'm a Ph.D. student at the Institute of Machine Learning at the Johannes Kepler University Linz supervised by **Prof. Sepp Hochreiter**.
 
-🤖 I have broad interests in ML, currently I'm especially curious about **out-of-distribution detection** and **attention mechanisms**.
+🤖 I research how to make Machine Learning models more reliable and adaptable. Currently, I'm especially curious about **out-of-distribution detection** and **attention mechanisms**.
 
 📝 Download my {{< staticref "uploads/hofmann_resume_public.pdf" "newtab" >}}Resume{{< /staticref >}}.
