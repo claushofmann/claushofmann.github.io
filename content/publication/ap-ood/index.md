@@ -12,23 +12,23 @@ authors:
 - Sepp Hochreiter
 - Werner Zellinger
 
-date: "2025-12-06T00:00:00Z"
+date: "2026-01-26T00:00:00Z"
 #doi: "https://doi.org/10.48550/arXiv.2405.08766"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-29T00:00:00Z"
+publishDate: "2026-01-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "EurIPS 2025 workshops: Metacognition in Generative AI; Epistemic Intelligence in Machine Learning"
-publication_short: EIML 2025 & MetaGenAI 2025
+publication: "The Fourteenth International Conference on Learning Representations"
+publication_short: ICLR 2026
 
-abstract: "Out-of-distribution (OOD) detection, which maps high-dimensional data into a scalar OOD score, is critical for the reliable deployment of machine learning models. A key challenge in recent research is how to effectively leverage and aggregate token embeddings from language models to obtain the OOD score. In this work, we propose AP-OOD, a novel OOD detection method for natural language that goes beyond simple average-based aggregation by exploiting token-level information. AP-OOD is a semi-supervised approach that flexibly interpolates between unsupervised and supervised settings, enabling the use of limited auxiliary outlier data. Empirically, AP-OOD sets a new state of the art in OOD detection for text: in the unsupervised setting, it reduces the FPR95 (false positive rate at 95% true positives) from 27.77% to 5.91% on XSUM summarization, and from 75.19% to 68.13% on WMT15 En–Fr translation."
+abstract: "Out-of-distribution (OOD) detection, which maps high-dimensional data into a scalar OOD score, is critical for the reliable deployment of machine learning models. A key challenge in recent research is how to effectively leverage and aggregate token embeddings from language models to obtain the OOD score. In this work, we propose AP-OOD, a novel OOD detection method for natural language that goes beyond simple average-based aggregation by exploiting token-level information. AP-OOD is a semi-supervised approach that flexibly interpolates between unsupervised and supervised settings, enabling the use of limited auxiliary outlier data. Empirically, AP-OOD sets a new state of the art in OOD detection for text: in the unsupervised setting, it reduces the FPR95 (false positive rate at 95% true positives) from 27.84% to 4.67% on XSUM summarization, and from 77.08% to 70.37% on WMT15 En–Fr translation."
 
 # Summary. An optional shortened abstract.
 summary: We present AP-OOD, an OOD detection approach for language models that efficiently leverages token-level information.
