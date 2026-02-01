@@ -5,7 +5,7 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches:
-      - main  # Make sure this matches your branch name (main or master)
+      - master  # Make sure this matches your branch name (main or master)
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
