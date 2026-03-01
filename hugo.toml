@@ -1,6 +1,6 @@
 baseURL = 'https://claushofmann.github.io/'
 languageCode = 'en-us'
-title = 'Claus Hofmann'
+title = 'Claus Hofmann | ML Researcher'
 
 [security]
   [security.funcs]
