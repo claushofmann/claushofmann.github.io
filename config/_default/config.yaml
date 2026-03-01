@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Claus Hofmann | ML Researcher # Website name
+title: Claus Hofmann # Website name
 baseurl: '' # Website URL
-copyright: 'Claus Hofmann' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Claus Hofmann' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
