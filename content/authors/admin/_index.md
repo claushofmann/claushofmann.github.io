@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Out-of-Distribution detection
 - Attention mechanisms
 - Sequence modeling
+- Out-of-Distribution detection
 - Modern Hopfield networks
 
 # Education to show in About widget
