@@ -16,16 +16,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: True
   
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
 design:
   columns: '2'
 ---
-I'm also active on {{< staticref "https://x.com/ClausHofm" "newtab" >}}X{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/claus-hofmann/" "newtab" >}}LinkedIn{{< /staticref >}}.
+I'm active on {{< staticref "https://x.com/ClausHofm" "newtab" >}}X{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/claus-hofmann/" "newtab" >}}LinkedIn{{< /staticref >}}.
