@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Claus Hofmann | ML Researcher
+title: Claus Hofmann
 
 # Is this the primary user of the site?
 superuser: true
